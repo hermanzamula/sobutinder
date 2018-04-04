@@ -1,2 +1,2 @@
 # sobutinder
-App for the users who wants get drunk with other people
+App for users who want to get drunk with other people
